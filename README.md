@@ -1,7 +1,6 @@
 # ML1_Python_NN_LSTM
 This is a team project in the course Machine Learning-I
-# TITLE: 
-Machine Learning Quality Prediction for a Flotation Mining Process
+## Machine Learning Quality Prediction for a Flotation Mining Process
 
 ## PROJECT MOTIVATION: 
 Currently, companies are required to provide products that comply with rigorous industry standards, while at the same time meeting and exceeding their customers’ needs and expectations. Therefore, organizations often have strategies to improve the quality of their work processes and their products, since failure to address quality standards could result in customer dissatisfaction, a bad reputation, and problems with regulatory agencies (in the case of more regulated industries, such as the mining industry). Additionally, proper quality control could prevent the costs associate to inefficiencies, downtimes in production, and low revenues, among others. As mentioned by Schmitt et al., the complexity of inspection and operation has increased; thus, requiring the application of the latest technology the era of Industry 4.0 has to offer. Nevertheless, Usuga et al. reported that 55% of ML-aided production planning and control activities (PPC) involved scheduling, and only 3% involved quality control. 
